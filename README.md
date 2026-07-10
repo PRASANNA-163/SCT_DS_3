@@ -45,18 +45,6 @@ The dataset includes **13 input features** and **1 binary target variable** (`y`
 
 ---
 
-## 📈 Results
-
-| Metric           | Value |
-|------------------|--------|
-| **Accuracy**     | ~XX.X% |
-| **Precision (Yes)** | ~XX.X% |
-| **Recall (Yes)**    | ~XX.X% |
-| **Top Features**    | `duration`, `poutcome`, `contact`, etc. |
-
-*(You can update these with actual values from your output)*
-
----
 
 ## 📊 Visualizations
 
